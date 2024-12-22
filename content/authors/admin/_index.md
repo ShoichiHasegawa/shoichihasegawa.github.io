@@ -54,7 +54,7 @@ education:
   - area: Ph.D. student in Information Science and Engineering
     institution: Ritsumeikan University
     date_start: 2022-04-01
-    date_end: Present
+    date_end: ''
     summary: ''
     button:
       text: ''
