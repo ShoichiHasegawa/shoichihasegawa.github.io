@@ -34,38 +34,38 @@ profiles:
     url: 'mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp'
     label: E-mail Me
   - icon: brands/x
-    url: ''
+    url: https://x.com/chikinpresi
   - icon: brands/facebook
-    url: ''
+    url: https://www.facebook.com/profile.php?id=100022703733674&locale=ja_JP
   - icon: brands/github
-    url: ''
+    url: https://github.com/Shoichi-Hasegawa0628
   - icon: brands/linkedin
-    url: ''
+    url: https://www.linkedin.com/in/shoichi-hasegawa-044219232/
   - icon: academicons/google-scholar
-    url: ''
+    url: https://scholar.google.com/citations?hl=en&authuser=4&user=KPxSCJUAAAAJ
   - icon: academicons/orcid
-    url: ''
+    url: https://orcid.org/0000-0001-9080-902X
 
 interests:
   - Language and Robotics
   - Foundation Models
 
 education:
-  - area: ''
+  - area: Ph.D. student in Information Science and Engineering
     institution: Ritsumeikan University
     date_start: 2022-04-01
-    date_end: ''
+    date_end: Present
     summary: ''
     button:
       text: ''
       url: ''
-  - area: MEng
+  - area: M.S. in Information Science and Engineering
     institution: Ritsumeikan University
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
       GPA: /5.0
-  - area: BEng
+  - area: B.S. in Science and Engineering
     institution: Ritsumeikan University
     date_start: 2016-04-01
     date_end: 2020-03-31
@@ -92,40 +92,43 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Programming
+        description: Python, C
+        percent: ''
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Software
+        description: ROS1/2, Git/GitHub/GitLab, Docker, Gazebo
+        percent: ''
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: OS
+        description: Linux (Ubuntu), Windows
+        percent: ''
         icon: circle-stack
-  - name: Hobbies
+      - name: Machining Technology
+        description: Lathe, Milling Machine, CNC Milling Machine, Drilling Machine, 3D Printing, Laser Cutter
+
+  - name: Certifications
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Driver’s License in Japan
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: ''
+        icon: ''
+      - name: ''
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: ''
+        icon: ''
+      - name: ''
         description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: ''
 
 languages:
+  - name: Japanese
+    percent: 100
   - name: English
     percent: ''
-  - name: Japanese
-    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -161,4 +164,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shoichi Hasegawa is a Ph.D. student at the Emergent Systems Laboratory. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
