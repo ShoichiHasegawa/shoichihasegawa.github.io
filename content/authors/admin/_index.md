@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Shoichi Hasegawa (長谷川 翔一)
+title: 長谷川 翔一
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Shoichi Hasegawa
 
 # Full name (for SEO)
 first_name: Shoichi
@@ -24,8 +24,11 @@ role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Emergent Systems Laboratory, Ritsumeikan University
+  - name: RARA Student Fellow
+  - name: EMLAB @ Ritsumeikan University
     url: http://www.em.ci.ritsumei.ac.jp/jp/
+  - name: Interaction Laboratory @ Ritsumeikan University 
+    url: https://www.i.ci.ritsumei.ac.jp/wp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,25 +55,12 @@ interests:
 
 education:
   - area: Ph.D. student in Information Science and Engineering
-    institution: Ritsumeikan University
-    date_start: 2022-04-01
-    date_end: ''
-    summary: ''
-    button:
-      text: ''
-      url: ''
-  - area: M.S. in Information Science and Engineering
-    institution: Ritsumeikan University
-    date_start: 2020-04-01
-    date_end: 2022-03-31
-    summary: |
-      GPA: /5.0
-  - area: B.S. in Science and Engineering
-    institution: Ritsumeikan University
-    date_start: 2016-04-01
-    date_end: 2020-03-31
-    summary: |
-      GPA: /5.0
+    institution: Ritsumeikan University, Apr. 2022 - Present
+  - area: "M.E. in Information Science and Engineering (GPA: /5.0)"
+    institution: Ritsumeikan University, Apr. 2020 - Mar. 2022
+  - area: "B.E. in Science and Engineering (GPA: /5.0)"
+    institution: Ritsumeikan University, Apr. 2016 - Mar. 2020
+
 work:
   - position: ''
     company_name: ''
@@ -93,36 +83,19 @@ skills:
   - name: Technical Skills
     items:
       - name: Programming
-        description: Python, C
-        percent: ''
-        icon: code-bracket
+        description: 'Python, C'
       - name: Software
-        description: ROS1/2, Git/GitHub/GitLab, Docker, Gazebo
-        percent: ''
-        icon: chart-bar
+        description: 'ROS1/2, Git/GitHub/GitLab, Docker, Gazebo'
       - name: OS
-        description: Linux (Ubuntu), Windows
-        percent: ''
-        icon: circle-stack
+        description: 'Linux (Ubuntu), Windows'
       - name: Machining Technology
-        description: Lathe, Milling Machine, CNC Milling Machine, Drilling Machine, 3D Printing, Laser Cutter
+        description: 'Lathe, Milling Machine, CNC Milling Machine, Drilling Machine, 3D Printing, Laser Cutter'
 
   - name: Certifications
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Driver’s License in Japan
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
 
 languages:
   - name: Japanese
@@ -164,4 +137,4 @@ awards:
 
 ## About Me
 
-Shoichi Hasegawa is a Ph.D. student at the Emergent Systems Laboratory. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student advised by [Prof. Tadahiro Taniguchi](https://www.tanichu.com/) at [Ritsumeikan University](https://en.ritsumei.ac.jp/gsise/) in Japan.
