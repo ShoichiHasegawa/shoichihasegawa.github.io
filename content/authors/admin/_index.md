@@ -34,17 +34,17 @@ profiles:
     url: 'mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp'
     label: E-mail Me
   - icon: brands/x
-    url: 
+    url: ''
   - icon: brands/facebook
-    url: 
+    url: ''
   - icon: brands/github
-    url: 
+    url: ''
   - icon: brands/linkedin
-    url: 
+    url: ''
   - icon: academicons/google-scholar
-    url: 
+    url: ''
   - icon: academicons/orcid
-    url: 
+    url: ''
 
 interests:
   - Language and Robotics
@@ -55,8 +55,7 @@ education:
     institution: Ritsumeikan University
     date_start: 2022-04-01
     date_end: ''
-    summary: |
-    ''
+    summary: ''
     button:
       text: ''
       url: ''
@@ -79,16 +78,14 @@ work:
     company_logo: ''
     date_start: ''
     date_end: ''
-    summary: |
-      ''
+    summary: ''
   - position: ''
     company_name: ''
     company_url: ''
     company_logo: ''
     date_start: ''
     date_end: ''
-    summary: |
-      ''
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
