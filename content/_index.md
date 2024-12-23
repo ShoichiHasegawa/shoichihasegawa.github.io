@@ -63,16 +63,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
@@ -178,12 +178,13 @@ sections:
           - Student Editor (Apr. 2023 - Present)
         - <a href="https://www.sice.jp/">The Society of Instrument and Control Engineers (SICE)</a>
           - Student Member (Jan. 2023 - Present)
-        
+    
     design:
       columns: '1'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['80px', '0px', '20px', '0px']
+
   - block: markdown
     id: fellowships
     content:

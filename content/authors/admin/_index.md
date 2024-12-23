@@ -20,14 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. student
+role: RARA Student Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RARA Student Fellow
-  - name: EMLAB @ Ritsumeikan University
+  - name: Emergent Systems Laboratory@Ritsumeikan University
     url: http://www.em.ci.ritsumei.ac.jp/jp/
-  - name: Interaction Laboratory @ Ritsumeikan University 
+  - name: Interaction Laboratory@Ritsumeikan University 
     url: https://www.i.ci.ritsumei.ac.jp/wp/
 
 # Social network links
@@ -50,7 +49,10 @@ profiles:
     url: https://orcid.org/0000-0001-9080-902X
 
 interests:
+  - Intelligent Robotics
+  - Service Robots
   - Language and Robotics
+  - Symbol Emergence in Robotics
   - Foundation Models
 
 education:
@@ -61,21 +63,21 @@ education:
   - area: "B.E. in Science and Engineering (GPA: /5.0)"
     institution: Ritsumeikan University, Apr. 2016 - Mar. 2020
 
-work:
-  - position: ''
-    company_name: ''
-    company_url: ''
-    company_logo: ''
-    date_start: ''
-    date_end: ''
-    summary: ''
-  - position: ''
-    company_name: ''
-    company_url: ''
-    company_logo: ''
-    date_start: ''
-    date_end: ''
-    summary: ''
+# work:
+#   - position: ''
+#     company_name: ''
+#     company_url: ''
+#     company_logo: ''
+#     date_start: ''
+#     date_end: ''
+#     summary: ''
+#   - position: ''
+#     company_name: ''
+#     company_url: ''
+#     company_logo: ''
+#     date_start: ''
+#     date_end: ''
+#     summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -89,7 +91,7 @@ skills:
       - name: OS
         description: 'Linux (Ubuntu), Windows'
       - name: Machining Technology
-        description: 'Lathe, Milling Machine, CNC Milling Machine, Drilling Machine, 3D Printing, Laser Cutter'
+        description: 'Lathe, Milling Machine, CNC Milling Machine, Drilling Machine, 3D Printing, Laser Cutter, CAD, CAM'
 
   - name: Certifications
     color: '#eeac02'
