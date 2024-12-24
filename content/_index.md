@@ -196,11 +196,11 @@ sections:
         1. <div style="font-size: 0.8em"><a href="">立命館大学NEXTフェローシップ・プログラム (文部科学省 科学技術イノベーション創出に向けた大学フェローシップ創設事業)</a>, <strong>JPY 180K/month</strong>, Apr. 2022 - Mar. 2024.</div>
 
         ### Scholarships
-        1. <div style="font-size: 0.8em">立命館大学大学院 博士課程後期課程研究奨励奨学金B, <strong>JPY</strong>, Jul. 2024.</div>
-        1. <div style="font-size: 0.8em">2年次対象成績優秀者奨学金, <strong>JPY</strong>, May. 2021.</div>
-        1. <div style="font-size: 0.8em">1年次対象成績優秀者奨学金, <strong>JPY</strong>, May. 2020.</div>
-        1. <div style="font-size: 0.8em">2018年度秋学期 西園寺記念奨学金 (成績優秀者枠), <strong>JPY 300K</strong>, Oct. 2018.</div>
-        1. <div style="font-size: 0.8em"><a href="">2016年度 西園寺記念奨学金（成績優秀者枠)</a>, <strong>JPY 300K</strong>, Apr. 2017.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.ritsumei.ac.jp/ru_gr/g-career/fellow/doctor/article.html/?id=2">立命館大学大学院 博士課程後期課程研究奨励奨学金B</a>, <strong>JPY 250K</strong>, Jul. 2024.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.ritsumei.ac.jp/ru_gr/g-career/fellow/master/article.html/?id=48">2年次対象成績優秀者奨学金</a>, <strong>JPY 450K</strong>, May. 2021.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.ritsumei.ac.jp/ru_gr/g-career/fellow/master/article.html/?id=50">1年次対象成績優秀者奨学金</a>, <strong>JPY 450K</strong>, May. 2020.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.ritsumei.ac.jp/scholarship/curriculum/#curriculum01">2018年度秋学期 西園寺記念奨学金 (成績優秀者枠)</a>, <strong>JPY 300K</strong>, Oct. 2018.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.ritsumei.ac.jp/scholarship/curriculum/#curriculum01">2016年度 西園寺記念奨学金（成績優秀者枠)</a>, <strong>JPY 300K</strong>, Apr. 2017.</div>
     design:
       columns: '1'
       # background:

@@ -58,9 +58,9 @@ interests:
 education:
   - area: Ph.D. student in Information Science and Engineering
     institution: Ritsumeikan University, Apr. 2022 - Present
-  - area: "M.E. in Information Science and Engineering (GPA: /5.0)"
+  - area: "M.E. in Information Science and Engineering (GPA: 4.14/5.0)"
     institution: Ritsumeikan University, Apr. 2020 - Mar. 2022
-  - area: "B.E. in Science and Engineering (GPA: /5.0)"
+  - area: "B.E. in Science and Engineering (GPA: 4.25/5.0)"
     institution: Ritsumeikan University, Apr. 2016 - Mar. 2020
 
 # work:
@@ -85,9 +85,9 @@ skills:
   - name: Technical Skills
     items:
       - name: Programming
-        description: 'Python, C'
+        description: 'Python, C, MATLAB'
       - name: Software
-        description: 'ROS1/2, Git/GitHub/GitLab, Docker, Gazebo'
+        description: 'ROS1/2, Git/GitHub/GitLab, Docker, Gazebo, RViz'
       - name: OS
         description: 'Linux (Ubuntu), Windows'
       - name: Machining Technology
@@ -101,9 +101,9 @@ skills:
 
 languages:
   - name: Japanese
-    percent: 100
+    # percent: 100
   - name: English
-    percent: ''
+    # percent: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -132,7 +132,7 @@ awards:
     date: '2024-10-10'
     awarder: IEEE International Conference on Systems, Man, and Cybernetics (SMC)
     summary: |
-      IEEE International Conference on Systems, Man, and Cyberneticsで最優秀口頭発表および論文を表彰します．
+      IEEE International Conference on Systems, Man, and Cyberneticsで発表された775本の中から，最優秀口頭発表および論文を表彰します．
       "Pointing Frame Estimation with Audio-Visual Time Series Data for Daily Life Service Robots," <a href="https://speakerdeck.com/shoichi_hasegawa/pointing-frame-estimation-with-audio-visual-time-series-data-for-daily-life-service-robots">slide</a>, <a href="https://emergentsystemlabstudent.github.io/PointingImgEst/">project page</a>.
 
   - title: 第5回 優秀研究・技術賞
@@ -241,7 +241,7 @@ awards:
     date: '2023-01-20'
     awarder: IEEE, 計測自動制御学会 (SICE)
     summary: |
-      学会で発表された中から特に優秀な研究を発表した著者に授与される．
+      学会で発表された187本の中から最も優秀な研究を発表した著者に授与される．
       "Inferring Place-Object Relationships by Integrating Probabilistic Logic and Multimodal Spatial Concepts".
   
   - title: SCREEN賞 (株式会社SCREENホールディングス企業賞)
@@ -306,4 +306,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student advised by [Prof. Tadahiro Taniguchi](https://www.tanichu.com/) at [Ritsumeikan University](https://en.ritsumei.ac.jp/gsise/) in Japan.
+I am a Ph.D. student advised by [Prof. Tadahiro Taniguchi](https://www.tanichu.com/) and [Prof. Nobutaka Shimada](https://researchmap.jp/nobutakashimada) at [Ritsumeikan University](https://en.ritsumei.ac.jp/gsise/) in Japan.
