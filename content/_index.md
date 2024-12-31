@@ -56,29 +56,23 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |
-      1. <div style="font-size: 0.8em"><u><strong>S. Hasegawa</strong></u>, K. Murata, T. Ishikawa, Y. Hagiwara, A. Taniguchi, L. El Hafi, G. Garcia, T. Taniguchi, "大規模言語モデルによる複数ロボットの知識統合とタスク割当を用いた現場学習のコスト削減," <strong>Journal of RSJ Letter</strong>, 2024, accepted. </div>
-      1. <div style="font-size: 0.8em">E. Martin, <u><strong>S. Hasegawa</strong></u>, J. Solis, B. Macq, R. Ronsse, G A. Garcia Ricardez, L. El Hafi, T. Taniguchi, "Integrating Multimodal Communication and Comprehension Evaluation during Human-Robot Collaboration for Increased Reliability of Foundation Model-based Task Planning Systems," <strong>IEEE/SICE International Symposium on System Integration (SII)</strong>, Germany, Jan. 2025, accepted. </div>
-      1. <div style="font-size: 0.8em">B. Bastin, S. Hasegawa, J. Solis, R. Ronsse, B. Macq, L. El Hafi, G A. Garcia Ricardez, T. Taniguchi, "GPTAlly: A Safety-Oriented System for Human-Robot Collaboration based on Foundation Models," <strong>IEEE/SICE International Symposium on System Integration (SII)</strong>, Germany, Jan. 2025, accepted. </div>
-      1. <div style="font-size: 0.8em">A. Oyama, S. Hasegawa, Y. Hagiwara, A. Taniguchi, T. Taniguchi, "ECRAP: Exophora Resolution and Classifying User Commands for Robot Action Planning by Large Language Models," <strong>IEEE International Conference on Robotic Cpmputing (IRC)</strong>, Japan, Dec. 2024, in press, <a href="https://emergentsystemlabstudent.github.io/ECRAP/">project page</a>. </div>
-      1. <div style="font-size: 0.8em">T. Sakaguchi, A. Taniguchi*, Y. Hagiwara, L. El Hafi, S. Hasegawa, T. Taniguchi, "Real-world Instance-specific Image Goal Navigation for Service Robots: Bridging the Domain Gap with Contrastive Learning," <strong>IEEE International Conference on Robotic Cpmputing (IRC)</strong>, Japan, Dec. 2024, in press, <a href="https://arxiv.org/abs/2404.09645">arxiv</a>, <a href="https://emergentsystemlabstudent.github.io/DomainBridgingNav/">project page</a>, <a href="https://github.com/EmergentSystemLabStudent/DomainBridgingNav">code</a>, <a href="https://speakerdeck.com/shoichi_hasegawa/irc24-real-world-instance-specific-image-goal-navigation-bridging-domain-gap-via-contrastive-learning">slide</a>. (🏆<strong>Best Paper Award</strong>)</div>
-
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: false
+      text: ''
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
     design:
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:
