@@ -232,35 +232,9 @@ sections:
       title: '📰 Misc'
       subtitle: ''
       text: |
-        - 日刊工業新聞 (19面), 「<a href="https://www.nikkan.co.jp/articles/view/00724640">慶大、実世界検索エンジンで物探しの推薦効率向上</a>」, 2024年9月16日.
-        - Research demonstration for the U.S. Ambassador to the United Nations and the State Minister for Foreign Affairs of Japan.
-          - Keio University, "<a href="https://www.keio.ac.jp/en/news/2024/Apr/30/48-158580/">US Ambassador to the United Nations Linda Thomas-Greenfield Visits Keio University</a>," Apr. 30, 2024.
-          - Ministry of Foreign Affairs of Japan, "<a href="https://www.mofa.go.jp/press/release/pressite_000001_00289.html">Participation of State Minister for Foreign Affairs TSUJI Kiyoto in Japan-U.S. Joint Event on Artificial Intelligence (AI)</a>," Apr. 18, 2024.
-          - JIJI.com, 「<a href="https://www.jiji.com/jc/article?k=2024041801147&g=soc">ＡＩ研究の学生にエール　米国国連大使</a>」, 2024年4月18日. (ほか多数)
-        - <a href="https://www.oreilly.co.jp/books/9784814400591/">ゼロから作るDeep Learning ❺ ―生成モデル編</a>, <a href="https://tree-radius-a8e.notion.site/80f8bfc333d244fdbd1f69a2acd37dc0">公開レビュー</a>, 2024年4月10日.
-        - 「<a href="https://www.ymd.nii.ac.jp/tid-crest/event/jst-crest-imaiyamadasympo2024">JST CREST今井・山田チーム合同シンポジウム2024『信頼と文脈の研究がもたらす新たな人工知能』</a> 」, 2024年2月20日.
-        - ロボ學, 「<a href="https://robogaku.jp/news/2023/rsj2022_4f3.html">学生編集委員企画：第40回日本ロボット学会学術講演会レポート（OS16：確率ロボティクスとデータ工学ロボティクス〜認識・行動学習・記号創発〜（4/4））</a>」, 2023年2月14日.
-        - <a href="https://www.oreilly.co.jp/books/9784873119755/">ゼロから作るDeep Learning ❹ ―強化学習編</a>, <a href="https://tree-radius-a8e.notion.site/442ed77a97a64bd8aa5527fe66009817?v=dedb2b6f537c49278d07f6c8e7ebbbea">公開レビュー</a>, 2022年4月6日.
-        - Journal Club (in Japanese🎌)
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ram-retrieval-based-affordance-transfer-for-generalizable-zero-shot-robotic-manipulation">RAM [Kuang+, CoRL24]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-language-embedded-gaussian-splats-legs-incrementally-building-room-scale-representations-with-a-mobile-robot">LEGS [Yu+, IROS24]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-seeing-the-unseen-visual-common-sense-for-semantic-placement">Semantic Placement [Ramrakhya+, CVPR24]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-moka-open-vocabulary-robotic-manipulation-through-mark-based-visual-prompting">MOKA [Fang+, RSS24]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rrex-bot-remote-referring-expressions-with-a-bag-of-tricks">RREx-BoT [Sigurdsson+, IROS23]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-tidybot-personalized-robot-assistance-with-large-language-models">TidyBot [Wu+, IROS23]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ifor-iterative-flow-minimization-for-robotic-object-rearrangement">IFOR [Goyal+, CVPR22]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-dialfred-dialogue-enabled-agents-for-embodied-instruction-following">DialFRED [Gao+, RA-L22]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-object-memory-transformer-for-object-goal-navigation">OMT [Fukushima+, ICRA22]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-following-natural-language-instructions-for-household-tasks-with-landmark-guided-search-and-reinforced-pose-adjustment">LGS-RPA [Murray+, RA-L22]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-a-simple-approach-for-visual-rearrangement-3d-mapping-and-semantic-search">Visual Rearrangement [Trabucco+, ICLR23]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-doorgym-a-scalable-door-opening-environment-and-baseline-agent">DoorGym [Urakami+, NeurIPSW19]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-mobile-former-bridging-mobilenet-and-transformer">Mobile-Former [Chen+, CVPR22]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rapid-exploration-for-open-world-navigation-with-latent-goal-models">RECON [Shah+, CoRL21]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-iterative-shrinking-for-referring-expression-grounding-using-deep-reinforcement-learning">ISREG [Sun+, CVPR21]</a>
-          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-uniter-universal-image-text-representation-learning">UNITER [Chen+, ECCV20]</a>
-
-          <a href="./slides/#journal-club" style="color: #4B65E2;">See All Slides ></a>
-    # TODO: KTM?
+        - <div style="font-size: 0.8em">長谷川 翔一, 牧原 昂志, パドマナバン シッダート, 若林 勇太, "学生編集委員会取材企画：人が"こころ''を感じる気の利いたロボットの実現を目指して,"日本ロボット学会誌, vol.42, no.3, pp.247-252, 2024年4月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/3/42_42_247/_article/-char/ja/">pdf</a>.</div>
+        - <div style="font-size: 0.8em">長谷川 翔一, "第41回日本ロボット学会学術講演会レポート（オーガナイズドセッション：基盤モデルの実ロボット応用（2/3））,"日本ロボット学会誌, vol.42, no.1, pp.48-49, 2024年1月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/1/42_42_48/_article/-char/ja/">pdf</a>.</div>
+        
     design:
       columns: '1'
       spacing:
