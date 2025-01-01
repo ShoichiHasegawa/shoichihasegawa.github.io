@@ -1,10 +1,10 @@
 ---
-title: 生活支援ロボットの行動計画のための大規模言語モデルと場所概念モデルの活用
+title: サービスロボットによる生活支援のための常識的知識と場所概念モデルの活用
 
-event: 2023年度下期衣笠ライスボールセミナー (2023年度 立命館大学大学院リサーチプロポーザルコンテスト 大賞受賞者の発表)
+event: 「生成 AI時代の次世代共生社会にはいかなる文理融合研究が必要か？」 R-GIRO「記号創発システム科学創成：実世界人工知能と次世代共生社会の学 術融合研究拠点」シンポジウム
 event_url: ''
 
-location: オンライン
+location: 立命館大学大阪いばらきキャンパス
 # address:
 #   street: 1-1-1 Nojihigashi
 #   city: Kusatsu
@@ -12,11 +12,11 @@ location: オンライン
 #   postcode: '5258577'
 #   country: Japan
 
-summary: 2023年度下期衣笠ライスボールセミナーにて「生活支援ロボットの行動計画のための大規模言語モデルと場所概念モデルの活用」というタイトルで講演を行った．
+summary: 「サービスロボットによる生活支援のための常識的知識と場所概念モデルの活用」というタイトルで講演を行った．
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-16'
+date: '2023-12-22'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
