@@ -35,26 +35,22 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Hi! I'm Shoichi Hasegawa.
-
+        Hi! I'm <u><strong>Shoichi Hasegawa</strong></u>.  
         I'm interested in multimodal language understanding for domestic service robots.
         Currently, I'm conducting research on robots that support human life in the home, based on the framework of symbol emergence in robotics, by leveraging spatial semantic understanding technologies and large language models.
         I'm a doctoral student at Ritsumeikan University and am involved in the <a href="https://avatar-ss.org/en/index.html">ISHIGURO Project (Moonshot Goal 1)</a>，<a href="https://en.ritsumei.ac.jp/research/r-giro/project/fourth/sato/">R-GIRO (Symbol Emergence Systems Science)</a>，<a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00003/00123/">HSRT-X (Matsuo Lab)</a>.
         My goal is to realize a domestic service robot that interacts with humans like a member of the family—much like "Doraemon."
 
-        Keywords:
-
+        <u><strong>Keywords</strong></u>:  
         Domestic service robot, multimodal language understanding, large language models, robotics foundation models, symbol emergence robotics
 
-        長谷川翔一と申します．
-
+        <u><strong>長谷川翔一</strong></u>と申します．  
         私は家庭用サービスロボットにおけるマルチモーダル言語理解に関心を持っています．
         現在は記号創発ロボティクスの枠組みに基づき、空間の意味理解技術と大規模言語モデルの知識を活用しながら、家庭内で人間の生活を支援するロボットの研究に取り組んでいます．
         立命館大学の博士課程に在籍し、<a href="https://avatar-ss.org/">石黒浩ムーンショット</a>，<a href="https://www.ritsumei.ac.jp/rgiro/project/fourth/sato/">R-GIRO (記号創発システム科学創成)</a>，<a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00003/00123/">HSRT-X (東京大学松尾研主導)</a>に参画しています．
         最終的には、「家族の一員のように人と関わる家庭用サービスロボット（ドラえもん）」の実現を目指しています．
 
-        キーワード:
-
+        <u><strong>キーワード</strong></u>:  
         家庭用サービスロボット，マルチモーダル言語理解，大規模言語モデル，ロボティクス基盤モデル，記号創発ロボティクス
 
     design:
@@ -129,7 +125,7 @@ sections:
       title: '📜 Representative Papers'
       subtitle: ''
       text: |
-        Full Publications (Google Scholor and Researchmap) is here.
+        Full Publications (<a href="https://scholar.google.com/citations?user=KPxSCJUAAAAJ&hl=en&authuser=1">Google Scholor</a> and <a href="https://researchmap.jp/shoichi_hasegawa">Researchmap</a>) is here.
 
         ### Integration of Probabilistic Logic and Probabilistic Generative Models for Understanding Object Placements
         1. <div style="font-size: 0.8em"><u><strong>S. Hasegawa</strong></u>, A. Taniguchi, Y. Hagiwara, L. El Hafi, T. Taniguchi, "Integrating Probabilistic Logic and Multimodal Spatial Concepts for Efficient Robotic Object Search in Home Environments," <strong>SICE Journal of Control, Measurement, and System Integration (SICE JCMSI)</strong>, Vol. 16, No. 1, pp. 400-422, 2023, <a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">paper</a>. DOI: 10.1080/18824889.2023.2283954 </div>
