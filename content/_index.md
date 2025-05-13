@@ -36,21 +36,25 @@ sections:
       subtitle: ''
       text: |-
         Hi! I'm Shoichi Hasegawa.
+
         I'm interested in multimodal language understanding for domestic service robots.
         Currently, I'm conducting research on robots that support human life in the home, based on the framework of symbol emergence in robotics, by leveraging spatial semantic understanding technologies and large language models.
-        I'm a doctoral student at Ritsumeikan University and am involved in the <a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">石黒ムーンショット</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">R-GIRO</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">HSRT-X</a>.
+        I'm a doctoral student at Ritsumeikan University and am involved in the <a href="https://avatar-ss.org/en/index.html">ISHIGURO Project (Moonshot Goal 1)</a>，<a href="https://en.ritsumei.ac.jp/research/r-giro/project/fourth/sato/">R-GIRO (Symbol Emergence Systems Science)</a>，<a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00003/00123/">HSRT-X (Matsuo Lab)</a>.
         My goal is to realize a domestic service robot that interacts with humans like a member of the family—much like "Doraemon."
 
         Keywords:
+
         Domestic service robot, multimodal language understanding, large language models, robotics foundation models, symbol emergence robotics
 
         長谷川翔一と申します．
+
         私は家庭用サービスロボットにおけるマルチモーダル言語理解に関心を持っています．
         現在は記号創発ロボティクスの枠組みに基づき、空間の意味理解技術と大規模言語モデルの知識を活用しながら、家庭内で人間の生活を支援するロボットの研究に取り組んでいます．
-        立命館大学の博士課程に在籍し、<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">石黒ムーンショット</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">R-GIRO</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">HSRT-X</a>に参画しています．
+        立命館大学の博士課程に在籍し、<a href="https://avatar-ss.org/">石黒浩ムーンショット</a>，<a href="https://www.ritsumei.ac.jp/rgiro/project/fourth/sato/">R-GIRO (記号創発システム科学創成)</a>，<a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00003/00123/">HSRT-X (東京大学松尾研主導)</a>に参画しています．
         最終的には、「家族の一員のように人と関わる家庭用サービスロボット（ドラえもん）」の実現を目指しています．
 
         キーワード:
+
         家庭用サービスロボット，マルチモーダル言語理解，大規模言語モデル，ロボティクス基盤モデル，記号創発ロボティクス
 
     design:
