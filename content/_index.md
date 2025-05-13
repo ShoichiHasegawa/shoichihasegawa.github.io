@@ -56,23 +56,25 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      text: |
+        1. <div style="font-size: 0.8em">遠藤純音, <u><strong>長谷川翔一</strong></u>, 中田友貴, 杉山滉平, 谷口彰, 上川多恵子, 安田裕子, 谷口忠大 "大規模言語モデルを活用した複線径路等至性モデリングのための図生成システムの開発," <strong>第4回TEAと質的探究学会</strong>, 2025, accepted. </div>
+        1. <div style="font-size: 0.8em">L. El Hafi, K. Onishi, <u><strong>S. Hasegawa</strong></u>, A. Oyama, T. Ishikawa, M. Osada, C. Tornberg, R. Kado, K. Murata, S. Hashimoto, S. Carrera Villalobos, A. Taniguchi, GA. Garcia Ricardez, Y. Hagiwara, T. Aoki, K. Iwata, T. Horii, Y. Horikawa, T. Miyashita, T. Taniguchi, H. Ishiguro, "Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land," <strong>IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO)</strong>, 2025, accepted. </div>
+      # filters:
+      #   folders:
+      #     - publication
+      #   exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
@@ -106,16 +108,14 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: '📜 Representative Researches'
+      title: '📜 Representative Papers'
       subtitle: ''
       text: |
-        ### Integration of Probabilistic Logic and Probabilistic Generative Models for Understanding Effiient Object Placements
-        1. <div style="font-size: 0.8em">S. Hasegawa, A. Taniguchi, Y. Hagiwara, L. El Hafi, T. Taniguchi, "Inferring Place-Object Relationships by Integrating Probabilistic Logic and Multimodal Spatial Concepts," <strong>IEEE/SICE International Symposium on System Integration (SII)</strong>, pp. 1-8, USA, Jan. 2023, <a href="https://ieeexplore.ieee.org/document/10039318">paper</a>. DOI: 10.1109/SII55687.2023.10039318 (🏆<strong>Best Paper Award</strong> and 🏆<strong>SICE International Young Authors Award for SII</strong>)</div>
+        ### Integration of Probabilistic Logic and Probabilistic Generative Models for Understanding Object Placements
         1. <div style="font-size: 0.8em"><u><strong>S. Hasegawa</strong></u>, A. Taniguchi, Y. Hagiwara, L. El Hafi, T. Taniguchi, "Integrating Probabilistic Logic and Multimodal Spatial Concepts for Efficient Robotic Object Search in Home Environments," <strong>SICE Journal of Control, Measurement, and System Integration (SICE JCMSI)</strong>, Vol. 16, No. 1, pp. 400-422, 2023, <a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">paper</a>. DOI: 10.1080/18824889.2023.2283954 </div>
 
 
         ### Large Language Models-based Robot Action Planning
-        1. <div style="font-size: 0.8em">長谷川 翔一, 伊藤 昌樹, 山木 良輔, 坂口 太一, 萩原 良信, 谷口 彰, エル ハフィ ロトフィ, 谷口 忠大, "生活支援ロボットの行動計画のための大規模言語モデルと場所概念モデルの活用," 第41回日本ロボット学会学術講演会 (RSJ), 大阪, 2023年9月, <a href="https://speakerdeck.com/shoichi_hasegawa/rsj23-leveraging-a-large-language-model-and-a-spatial-concept-model-for-action-planning-of-a-daily-life-support-robot">slide</a>.</div>
         1. <div style="font-size: 0.8em">萩原 良信, 長谷川 翔一, 大山 瑛, 谷口 彰, エル ハフィ ロトフィ, 谷口 忠大, "現場環境で学習した知識に基づく曖昧な発話からの生活物理支援タスク," 第41回日本ロボット学会学術講演会 (RSJ), 大阪, 2023年9月. (🏆<strong>HSRコミュニティ優秀論文賞</strong>, 🏆<strong>第5回 優秀研究・技術賞</strong>)</div>
 
 
@@ -129,13 +129,11 @@ sections:
 
         ### Exophora Resolution
         1. <div style="font-size: 0.8em">A. Oyama, S. Hasegawa, H. Nakagawa, A. Taniguchi, Y. Hagiwara, T. Taniguchi, "Exophora Resolution of Linguistic Instructions with a Demonstrative based on Real-World Multimodal Information," <strong>IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)</strong>, pp. 2617-2623, Korea, Aug. 2023, <a href="https://ieeexplore.ieee.org/document/10309487">paper</a>. DOI: 10.1109/RO-MAN57019.2023.10309487 (🏆<strong>ロボカップ研究賞</strong>) </div>
-        1. <div style="font-size: 0.8em">A. Oyama, S. Hasegawa, Y. Hagiwara, A. Taniguchi, T. Taniguchi, "ECRAP: Exophora Resolution and Classifying User Commands for Robot Action Planning by Large Language Models," <strong>IEEE International Conference on Robotic Cpmputing (IRC)</strong>, Japan, Dec. 2024, in press, <a href="https://emergentsystemlabstudent.github.io/ECRAP/">project page</a>. </div>
         1. <div style="font-size: 0.8em">H. Nakagawa, S. Hasegawa, Y. Hagiwara, A. Taniguchi, T. Taniguchi, "Pointing Frame Estimation with Audio-Visual Time Series Data for Daily Life Service Robots," <strong>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</strong>, Malaysia, Oct. 2024, in press, <a href="https://emergentsystemlabstudent.github.io/PointingImgEst/">project page</a>, <a href="https://speakerdeck.com/shoichi_hasegawa/pointing-frame-estimation-with-audio-visual-time-series-data-for-daily-life-service-robots">slide</a>. (🏆<strong>Best Paper Award</strong>)</div>
 
 
         ### Instance Specific Image-Goal Navigation with Self-Supervised Learning
         1. <div style="font-size: 0.8em">T. Sakaguchi, A. Taniguchi*, Y. Hagiwara, L. El Hafi, S. Hasegawa, T. Taniguchi, "Object Instance Retrieval in Assistive Robotics: Leveraging Fine-Tuned SimSiam with Multi-View Images Based on 3D Semantic Map," <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>, Abu Dabi, Oct. 2024, in press, <a href="https://arxiv.org/abs/2404.09647">arxiv</a>, <a href="https://emergentsystemlabstudent.github.io/MultiViewRetrieve/">project page</a>, <a href="https://github.com/EmergentSystemLabStudent/MultiViewRetrieve">code</a>. </div>
-        1. <div style="font-size: 0.8em">T. Sakaguchi, A. Taniguchi*, Y. Hagiwara, L. El Hafi, S. Hasegawa, T. Taniguchi, "Real-world Instance-specific Image Goal Navigation for Service Robots: Bridging the Domain Gap with Contrastive Learning," <strong>IEEE International Conference on Robotic Cpmputing (IRC)</strong>, Japan, Dec. 2024, in press, <a href="https://arxiv.org/abs/2404.09645">arxiv</a>, <a href="https://emergentsystemlabstudent.github.io/DomainBridgingNav/">project page</a>, <a href="https://github.com/EmergentSystemLabStudent/DomainBridgingNav">code</a>, <a href="https://speakerdeck.com/shoichi_hasegawa/irc24-real-world-instance-specific-image-goal-navigation-bridging-domain-gap-via-contrastive-learning">slide</a>. (🏆<strong>Best Paper Award</strong>)</div>
         
         
         ### Foundation Models for Human-Robot Interaction
@@ -149,15 +147,15 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['80px', '0px', '20px', '0px']
-  - block: resume-awards
-    id: awards
-    content:
-      title: 🏆 Awards
-      username: admin
-    design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['80px', '0px', '20px', '0px']
+  # - block: resume-awards
+  #   id: awards
+  #   content:
+  #     title: 🏆 Awards
+  #     username: admin
+  #   design:
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['80px', '0px', '20px', '0px']
   - block: markdown
     id: experience
     content:
@@ -171,19 +169,6 @@ sections:
           - Research Assistant (Apr. 2022 - Mar. 2023)
         - <a href="">OMRON Corporation</a>, Kyoto.
           - Research Internship (Feb. 2021 - Mar. 2021)
-
-        ### 🏫 Professional Memberships
-        - <a href="https://www.ieeesmc.org/">IEEE Systems, Man, & Cybernetics Society</a>
-          - Student Member (Sep. 2024 - Present)
-        - <a href="https://www.ai-gakkai.or.jp/en/">The Japanese Society for Artificial Intelligence (JSAI)</a>
-          - Student Member (Oct. 2023 - Present)
-        - <a href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>
-          - Student Member (Sep. 2023 - Present)
-        - <a href="https://www.rsj.or.jp/en/">The Robotics Society of Japan (RSJ)</a>
-          - Student Member (Jun. 2023 - Present)
-          - Student Editor (Apr. 2023 - Present)
-        - <a href="https://www.sice.jp/">The Society of Instrument and Control Engineers (SICE)</a>
-          - Student Member (Jan. 2023 - Present)
     
     design:
       columns: '1'
@@ -233,19 +218,19 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['10px', '0px', '20px', '0px']
-  - block: markdown
-    content:
-      title: '📰 Misc'
-      subtitle: ''
-      text: |
-        - <div style="font-size: 0.8em">長谷川 翔一, 牧原 昂志, パドマナバン シッダート, 若林 勇太, "学生編集委員会取材企画：人が"こころ''を感じる気の利いたロボットの実現を目指して,"日本ロボット学会誌, vol.42, no.3, pp.247-252, 2024年4月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/3/42_42_247/_article/-char/ja/">pdf</a>.</div>
-        - <div style="font-size: 0.8em">長谷川 翔一, "第41回日本ロボット学会学術講演会レポート（オーガナイズドセッション：基盤モデルの実ロボット応用（2/3））,"日本ロボット学会誌, vol.42, no.1, pp.48-49, 2024年1月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/1/42_42_48/_article/-char/ja/">pdf</a>.</div>
+  # - block: markdown
+  #   content:
+  #     title: '📰 Misc'
+  #     subtitle: ''
+  #     text: |
+  #       - <div style="font-size: 0.8em">長谷川 翔一, 牧原 昂志, パドマナバン シッダート, 若林 勇太, "学生編集委員会取材企画：人が"こころ''を感じる気の利いたロボットの実現を目指して,"日本ロボット学会誌, vol.42, no.3, pp.247-252, 2024年4月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/3/42_42_247/_article/-char/ja/">pdf</a>.</div>
+  #       - <div style="font-size: 0.8em">長谷川 翔一, "第41回日本ロボット学会学術講演会レポート（オーガナイズドセッション：基盤モデルの実ロボット応用（2/3））,"日本ロボット学会誌, vol.42, no.1, pp.48-49, 2024年1月,　<a href="https://www.jstage.jst.go.jp/article/jrsj/42/1/42_42_48/_article/-char/ja/">pdf</a>.</div>
         
-    design:
-      columns: '1'
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['80px', '0px', '40px', '0px']
+  #   design:
+  #     columns: '1'
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['80px', '0px', '40px', '0px']
 ---
 #   - block: cta-card
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
