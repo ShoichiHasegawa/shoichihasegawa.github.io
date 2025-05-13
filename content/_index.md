@@ -53,7 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  - block: markdown
+    id: publications
     content:
       title: Recent Publications
       text: |
@@ -63,8 +64,8 @@ sections:
       #   folders:
       #     - publication
       #   exclude_featured: false
-    design:
-      view: citation
+    # design:
+    #   view: citation
   # - block: collection
   #   id: talks
   #   content:
