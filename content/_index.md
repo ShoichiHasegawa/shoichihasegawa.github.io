@@ -35,17 +35,30 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Hi! I'm Shoichi Hasegawa.
+        I'm interested in multimodal language understanding for domestic service robots.
+        Currently, I'm conducting research on robots that support human life in the home, based on the framework of symbol emergence in robotics, by leveraging spatial semantic understanding technologies and large language models.
+        I'm a doctoral student at Ritsumeikan University and am involved in the <a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">石黒ムーンショット</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">R-GIRO</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">HSRT-X</a>.
+        My goal is to realize a domestic service robot that interacts with humans like a member of the family—much like "Doraemon."
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Keywords:
+        Domestic service robot, multimodal language understanding, large language models, robotics foundation models, symbol emergence robotics
+
+        長谷川翔一と申します．
+        私は家庭用サービスロボットにおけるマルチモーダル言語理解に関心を持っています．
+        現在は記号創発ロボティクスの枠組みに基づき、空間の意味理解技術と大規模言語モデルの知識を活用しながら、家庭内で人間の生活を支援するロボットの研究に取り組んでいます．
+        立命館大学の博士課程に在籍し、<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">石黒ムーンショット</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">R-GIRO</a>，<a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">HSRT-X</a>に参画しています．
+        最終的には、「家族の一員のように人と関わる家庭用サービスロボット（ドラえもん）」の実現を目指しています．
+
+        キーワード:
+        家庭用サービスロボット，マルチモーダル言語理解，大規模言語モデル，ロボティクス基盤モデル，記号創発ロボティクス
+
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: '⭐ Featured Publications'
       filters:
         folders:
           - publication
@@ -53,13 +66,13 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: markdown
-    id: publications
-    content:
-      title: Recent Publications
-      text: |
-        1. <div style="font-size: 0.8em">遠藤純音, <u><strong>長谷川翔一</strong></u>, 中田友貴, 杉山滉平, 谷口彰, 上川多恵子, 安田裕子, 谷口忠大 "大規模言語モデルを活用した複線径路等至性モデリングのための図生成システムの開発," <strong>第4回TEAと質的探究学会</strong>, 2025, accepted. </div>
-        1. <div style="font-size: 0.8em">L. El Hafi, K. Onishi, <u><strong>S. Hasegawa</strong></u>, A. Oyama, T. Ishikawa, M. Osada, C. Tornberg, R. Kado, K. Murata, S. Hashimoto, S. Carrera Villalobos, A. Taniguchi, GA. Garcia Ricardez, Y. Hagiwara, T. Aoki, K. Iwata, T. Horii, Y. Horikawa, T. Miyashita, T. Taniguchi, H. Ishiguro, "Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land," <strong>IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO)</strong>, 2025, accepted. </div>
+  # - block: markdown
+  #   id: publications
+  #   content:
+  #     title: '💪 Recent Publications'
+  #     text: |
+  #       1. <div style="font-size: 0.8em">遠藤純音, <u><strong>長谷川翔一</strong></u>, 中田友貴, 杉山滉平, 谷口彰, 上川多恵子, 安田裕子, 谷口忠大 "大規模言語モデルを活用した複線径路等至性モデリングのための図生成システムの開発," <strong>第4回TEAと質的探究学会</strong>, 2025, accepted. </div>
+  #       1. <div style="font-size: 0.8em">L. El Hafi, K. Onishi, <u><strong>S. Hasegawa</strong></u>, A. Oyama, T. Ishikawa, M. Osada, C. Tornberg, R. Kado, K. Murata, S. Hashimoto, S. Carrera Villalobos, A. Taniguchi, GA. Garcia Ricardez, Y. Hagiwara, T. Aoki, K. Iwata, T. Horii, Y. Horikawa, T. Miyashita, T. Taniguchi, H. Ishiguro, "Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land," <strong>IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO)</strong>, 2025, accepted. </div>
       # filters:
       #   folders:
       #     - publication
@@ -79,7 +92,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title:  '🚀 Recent News'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -112,6 +125,8 @@ sections:
       title: '📜 Representative Papers'
       subtitle: ''
       text: |
+        Full Publications (Google Scholor and Researchmap) is here.
+
         ### Integration of Probabilistic Logic and Probabilistic Generative Models for Understanding Object Placements
         1. <div style="font-size: 0.8em"><u><strong>S. Hasegawa</strong></u>, A. Taniguchi, Y. Hagiwara, L. El Hafi, T. Taniguchi, "Integrating Probabilistic Logic and Multimodal Spatial Concepts for Efficient Robotic Object Search in Home Environments," <strong>SICE Journal of Control, Measurement, and System Integration (SICE JCMSI)</strong>, Vol. 16, No. 1, pp. 400-422, 2023, <a href="https://www.tandfonline.com/doi/full/10.1080/18824889.2023.2283954">paper</a>. DOI: 10.1080/18824889.2023.2283954 </div>
 
@@ -140,7 +155,6 @@ sections:
         ### Foundation Models for Human-Robot Interaction
         1. <div style="font-size: 0.8em">E. Martin, <u><strong>S. Hasegawa</strong></u>, J. Solis, B. Macq, R. Ronsse, G A. Garcia Ricardez, L. El Hafi, T. Taniguchi, "Integrating Multimodal Communication and Comprehension Evaluation during Human-Robot Collaboration for Increased Reliability of Foundation Model-based Task Planning Systems," <strong>IEEE/SICE International Symposium on System Integration (SII)</strong>, Germany, Jan. 2025, accepted. </div>
         1. <div style="font-size: 0.8em">B. Bastin, S. Hasegawa, J. Solis, R. Ronsse, B. Macq, L. El Hafi, G A. Garcia Ricardez, T. Taniguchi, "GPTAlly: A Safety-Oriented System for Human-Robot Collaboration based on Foundation Models," <strong>IEEE/SICE International Symposium on System Integration (SII)</strong>, Germany, Jan. 2025, accepted. </div>
-        
 
         <a href="./slides/#domestic" style="color: #4B65E2;">See All Slides ></a>
     design:
