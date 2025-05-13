@@ -42,7 +42,9 @@ sections:
         My goal is to realize a domestic service robot that interacts with humans like a member of the family—much like "Doraemon."
 
         <u><strong>Keywords</strong></u>:  
-        Domestic service robot, multimodal language understanding, large language models, robotics foundation models, symbol emergence robotics
+        Domestic Service Robot, Multimodal Language Understanding,   
+        Probabilistic Generative Models, Foundation Models,   
+        Symbol Emergence in Robotics
 
         <u><strong>長谷川翔一</strong></u>と申します．  
         私は家庭用サービスロボットにおけるマルチモーダル言語理解に関心を持っています．
@@ -51,7 +53,8 @@ sections:
         最終的には、「家族の一員のように人と関わる家庭用サービスロボット（ドラえもん）」の実現を目指しています．
 
         <u><strong>キーワード</strong></u>:  
-        家庭用サービスロボット，マルチモーダル言語理解，大規模言語モデル，ロボティクス基盤モデル，記号創発ロボティクス
+        家庭用サービスロボット，マルチモーダル言語理解，確率的生成モデル，  
+        基盤モデル，記号創発ロボティクス
 
     design:
       columns: '1'
