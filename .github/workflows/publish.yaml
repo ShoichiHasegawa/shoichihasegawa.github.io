@@ -99,9 +99,8 @@ jobs:
         run: npx pagefind --site "public"
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v2
         with:
-          name: github-pages
           path: ./public
 
   deploy:
@@ -112,11 +111,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: github-pages
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
